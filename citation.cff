@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "chattopadhyay"
+  given-names: "ishanu"
+  orcid: "https://orcid.org/0000-0001-8339-8162"
+- family-names: "Onishchenko"
+  given-names: "Dmytro"
+  orcid: "https://orcid.org/0000-0001-7602-7232"
+title: "ZCOR-ADRD"
+version: 0.0.3
+doi: 10.5281/zenodo.5348082
+date-released: 2021-08-31
+url: "https://github.com/zeroknowledgediscovery/ZCOR-ADRD"
